@@ -1,4 +1,4 @@
-[] Build ground
+[*] Build ground
 [] Move ground
 [] Create Dino
 [] Animate Dino
